@@ -9,4 +9,4 @@
 **Problema que resolve:** ele ajuda a um potencial comprador nao comprar por um preco assima do normal identificado para o produto, ou seja , comprar no melhor preco possivel
 ---
 ## Integrantes
-joao gulherme amadei simao | [@joaoggg434] 
+joao gulherme amadei simao (26022239) | [@joaoggg434] 
