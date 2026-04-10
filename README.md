@@ -1,7 +1,7 @@
 # [Monitor de Preços]
 
 ---
-## o projeto tem o objetivo de analisar e identificar as melhores opotunidades de preco para um determinado produto
+## o projeto tem o objetivo de analisar e identificar as melhores opotunidades de preco para um determinado produto!
 
 ---
 **Projeto:** Monitor de Preços
